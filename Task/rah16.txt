@@ -1,0 +1,23 @@
+SELECT do.name, d.dname FROM `department` d, doctor as do WHERE d.dept_id=do.departmentid;
+
+
+SELECT * FROM `doctor` WHERE pass '1%';
+
+SELECT * FROM `doctor` WHERE emailid LIKE '%gmail.com';
+
+
+
+1 hero and willon
+2 what do you understand stash 
+3 if i given option will you travel forword and backword
+if possible provide number 
+power of listening 
+
+how comes to your mind when i said to team work
+
+which one you unbeliveable thing do you think its mainifest
+
+what do you understand timeline and alternate time line any movies come to your mind quotes
+
+
+

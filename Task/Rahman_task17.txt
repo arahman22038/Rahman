@@ -1,0 +1,9 @@
+
+
+
+SELECT name FROM `doctor`WHERE salary < (SELECT avg(salary) from doctor);
+SELECT name,dob FROM doctor WHERE CAST(RIGHT(dob, 4) AS INT) > 1978;
+
+SELECT name FROM `doctor` WHERE relative is null or relative="";
+
+SELECT name FROM `doctor` WHERE patientcount=0;

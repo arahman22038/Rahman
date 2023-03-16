@@ -1,0 +1,4 @@
+create database rahman22038;
+create table employee(emp_id int,emp_name varchar(10),emp_registration date,emp_phonenumber varchar(10))
+
+INSERT INTO `employee`(`emp_id`, `emp_name`, `emp_registration`, `emp_phonenumber`) VALUES (100,'Rahman','2023-10-06','8685620258');
